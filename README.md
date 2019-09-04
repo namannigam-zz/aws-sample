@@ -1,2 +1,0 @@
-# aws-sample
-# aws-sample
